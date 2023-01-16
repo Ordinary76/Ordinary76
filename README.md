@@ -2,6 +2,9 @@
 
 ## :man_technologist: About me:
 
-I'm Yandex Data Analyst graduate since December 2022. On my page you can find some of my projects made during my studying. 
+I'm Yandex Data Analyst graduate since December 2022. On my page you can find some of my projects made during my studying. Searching for a job now in IT sphere. 
 
-## ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ordinary76)
+## What am I good at? :
+
+
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ordinary76)
