@@ -13,4 +13,5 @@ I'm Yandex Data Analyst graduate since December 2022. On my page you can find so
  - Hypotes verification
  - Correlation verification
 
+# 📈Some statistics:
  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ordinary76)
