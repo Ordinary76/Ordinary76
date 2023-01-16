@@ -5,9 +5,11 @@
 I'm Yandex Data Analyst graduate since December 2022. On my page you can find some of my projects made during my studying. Searching for a job in IT sphere. 
 
 ### 💻 My skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="25" height="25"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="25" height="25"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25" height="25"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="25" height="25"/>&nbsp;
+
 
 ### 🎓What am I good at? :
  - A/B analyse
@@ -17,3 +19,5 @@ I'm Yandex Data Analyst graduate since December 2022. On my page you can find so
 
 ### 📈Some statistics:
  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ordinary76)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ordinary76&repo=github-readme-stats)](https://github.com/Ordinary76/AnalystProjects)
