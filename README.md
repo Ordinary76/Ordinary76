@@ -17,6 +17,7 @@ I'm Yandex Data Analyst graduate since December 2022. On my page you can find so
  - Visualisation
 
 ### 📈Some statistics:
+
 [My graduate projects you can find here](https://github.com/Ordinary76/AnalystProjects)
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ordinary76)
