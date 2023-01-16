@@ -4,6 +4,8 @@
 
 I'm Yandex Data Analyst graduate since December 2022. On my page you can find some of my projects made during my studying. Searching for a job in IT sphere. 
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 # What am I good at? :
  - A/B analyse
  - Hypotes verification
